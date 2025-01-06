@@ -14,6 +14,9 @@
 #>
 
 # Function to display the menu
+
+#------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------
 function Show-Menu {
     Write-Host "`nGit Repository Manager Menu" -ForegroundColor Cyan
     Write-Host "1. Clone a repository"
